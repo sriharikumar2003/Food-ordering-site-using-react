@@ -1,0 +1,78 @@
+.foodcard {
+    height: 350px;
+    width: 500px ;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10px; 
+    gap: 10px; 
+    box-sizing: border-box; 
+    border-radius: 28px;
+}
+img{
+    border-radius: 10px;
+}
+
+.food {
+    height: 200px;
+    width: 200px;
+}
+
+.amorder {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    width: 100%; 
+}
+
+.foodnam {
+    margin: 0px;
+    text-align: center; 
+    width: 100%; 
+}
+
+.para {
+    margin: 0px;
+    width: 100%; 
+    text-align: center; 
+    overflow: hidden; 
+    white-space: normal; 
+}
+
+.foodcontain {
+    display: flex;
+    gap: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+
+.amount {
+    color: blue;
+    font-size: 20px;
+    margin: 0;
+}
+.foodcontain .foodcard {
+    width: 500px; 
+}
+
+
+.order {
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
+
+.foodcard:hover{
+    transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+}

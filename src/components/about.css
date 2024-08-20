@@ -1,0 +1,17 @@
+#about{
+    text-decoration: underline;
+    color: white;
+    font-size: 45px;
+}
+#mai{
+    font-size: 30px;
+    color: white;
+}
+.hari{
+    background-color: #C1D8C3;
+    padding: 5px;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
