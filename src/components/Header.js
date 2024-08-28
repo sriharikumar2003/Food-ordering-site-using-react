@@ -10,7 +10,7 @@ function Header(){
           <li>Home</li>  
           <li>About Us</li> 
           <li>Contact</li>
-          <li><img src={image}></img></li>
+          <li><img src={image} alt="imageofathing"></img></li>
           <li id ="search"><input placeholder="enter item"></input><button type="submit">Search</button></li>
         </ul>
         </div> 

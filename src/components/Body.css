@@ -24,27 +24,30 @@
     position: absolute;
     top: 400px;
     right: 50px;
-    animation: upDown 2s infinite linear;
+    animation:fall 1s ease-in-out, upDown 2s infinite linear;
 }
 #imtwo{
     position: absolute;
     top: 100px;
     left: 50px;
-    animation: upDown 2s infinite linear;
+    animation: fall;
+    animation: fall 1s ease-in-out,upDown 2s infinite linear;
 }
 #imth{
     position: absolute;
     bottom: 0px;
     height: 400px;
     left: 350px;
-    animation: upDown 2s infinite linear;
+    animation: fall;
+    animation: fall 1s ease-in-out,upDown 2s infinite linear;
 }
 #imf{
     position: absolute;
      top: 60px;
     height: 300px;
     right: 350px;
-    animation: upDown 2s infinite linear;
+    animation: fall;
+    animation: fall 1s ease-in-out,upDown 2s infinite linear;
 }
 
 @keyframes upDown{
@@ -58,3 +61,13 @@
         transform: translateY(-15px);
     }
 }
+@keyframes fall {
+    from {
+      transform: translateY(-100vh); 
+      opacity: 0; 
+    }
+    to {
+      transform: translateY(0); 
+      opacity: 1; 
+    }
+  }
