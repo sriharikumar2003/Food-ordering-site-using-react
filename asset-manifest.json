@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Food-ordering-site-using-react/static/css/main.50bf365e.css",
+    "main.js": "/Food-ordering-site-using-react/static/js/main.8af0485c.js",
+    "static/media/cream6.jpg": "/Food-ordering-site-using-react/static/media/cream6.5a7560eb5b14f5b1dc08.jpg",
+    "static/media/food1.jpg": "/Food-ordering-site-using-react/static/media/food1.7facb4c5eaf834211f8d.jpg",
+    "static/media/food3.jpg": "/Food-ordering-site-using-react/static/media/food3.967b334594319abebfc2.jpg",
+    "static/media/cream1.jpg": "/Food-ordering-site-using-react/static/media/cream1.31696fda701b71441cbf.jpg",
+    "static/media/food6.jpg": "/Food-ordering-site-using-react/static/media/food6.3c6bb35412cc1068a040.jpg",
+    "static/media/cream5.jpg": "/Food-ordering-site-using-react/static/media/cream5.55d3a6ca2d03fe13cb16.jpg",
+    "static/media/cream2.jpg": "/Food-ordering-site-using-react/static/media/cream2.4a26a256a6fdab570ef4.jpg",
+    "static/media/food7.jpg": "/Food-ordering-site-using-react/static/media/food7.ae88a0704b6edbb258b4.jpg",
+    "static/media/cream4.jpg": "/Food-ordering-site-using-react/static/media/cream4.2d3ffaf47704dd56560c.jpg",
+    "static/media/cream7.jpg": "/Food-ordering-site-using-react/static/media/cream7.e0e62afc0bad8309cf39.jpg",
+    "static/media/food5.jpg": "/Food-ordering-site-using-react/static/media/food5.24ae086e439b109d5eeb.jpg",
+    "static/media/food4.jpg": "/Food-ordering-site-using-react/static/media/food4.c67cd4d3c11edf739902.jpg",
+    "static/media/food2.jpg": "/Food-ordering-site-using-react/static/media/food2.962c1a6888bcfba2567d.jpg",
+    "static/media/food1.png": "/Food-ordering-site-using-react/static/media/food1.39f39d07f7f452f33c7e.png",
+    "static/media/food2.png": "/Food-ordering-site-using-react/static/media/food2.3254de94e0b835cb66c0.png",
+    "static/media/cream3.jpg": "/Food-ordering-site-using-react/static/media/cream3.b934be180d2ca697f030.jpg",
+    "static/media/food3.png": "/Food-ordering-site-using-react/static/media/food3.f643eff7d39158e95f39.png",
+    "static/media/logo.png": "/Food-ordering-site-using-react/static/media/logo.132910adcab6d94e8669.png",
+    "index.html": "/Food-ordering-site-using-react/index.html",
+    "main.50bf365e.css.map": "/Food-ordering-site-using-react/static/css/main.50bf365e.css.map",
+    "main.8af0485c.js.map": "/Food-ordering-site-using-react/static/js/main.8af0485c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50bf365e.css",
+    "static/js/main.8af0485c.js"
+  ]
+}
